@@ -1,0 +1,86 @@
+syntax = "proto3";
+
+option csharp_namespace = "Kolcsonzo";
+
+package Kolcsonzo;
+
+service Kolcsonzo {
+  rpc List(Empty) returns (stream Car) {}
+  rpc ListType(Type) returns (stream Car) {}
+  rpc Login(LoginData) returns (Session_Id) {}
+  rpc Logout(Session_Id2) returns (Result) {}
+  rpc Add(Car4) returns (Result) {}
+  rpc Delete(Car2) returns (Result) {}
+  rpc Rent(Car2) returns (Result) {}
+  rpc Back(Car3) returns (Result) {}
+}
+message Empty {
+}
+
+message User {
+   string username=1;
+   int32 level=2;
+   string uid=3;
+}
+
+message LoginData {
+  string username=1;
+  string passwd=2;
+}
+
+message Session_Id {
+  string uid=1;
+  int32 level=2;
+  string success=3;
+}
+
+message Session_Id2 {
+  string id=1;
+}
+
+message Result {
+  string success=1;
+}
+
+message Data {
+   string name=1;
+   string code=2;
+   int32 price=3;
+   string uid=4;
+}
+
+message Car {
+   string brand=1;
+   string type=2;
+   string lic_pl_num=3;
+   int32 year=4;
+   int32 km=5;
+   int32 priceperkm=6;
+   bool isRented=7;
+   string renter=8;
+}
+
+message Car2 {
+   string licPlNum=1;
+   string uid=2;
+}
+message Car3 {
+   string licPlNum=1;
+   int32 km=2;
+   string uid=3;
+}
+
+message Car4 {
+   string brand=1;
+   string type=2;
+   string licPlNum=3;
+   int32 year=4;
+   int32 km=5;
+   int32 priceperkm=6;
+   string uid=7;
+}
+
+message Type{
+	string type=1;
+}
+

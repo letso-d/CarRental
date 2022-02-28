@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLSnwso/HVfBh3i5Of2ObZkUERdqJOaCyZw6rR0tTKMsUnE9C6MBEA9mSPfyIQwXf6rgNgyvACGnntzz7LlitA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Letso\\source\\repos\\KolcsonzoClient\\Kolcsonzo_Client\\Kolcsonzo_Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Letso\\.nuget\\packages\\google.protobuf\\3.19.3\\google.protobuf.3.19.3.nupkg.sha512",
+    "C:\\Users\\Letso\\.nuget\\packages\\grpc.core.api\\2.42.0\\grpc.core.api.2.42.0.nupkg.sha512",
+    "C:\\Users\\Letso\\.nuget\\packages\\grpc.net.client\\2.42.0\\grpc.net.client.2.42.0.nupkg.sha512",
+    "C:\\Users\\Letso\\.nuget\\packages\\grpc.net.common\\2.42.0\\grpc.net.common.2.42.0.nupkg.sha512",
+    "C:\\Users\\Letso\\.nuget\\packages\\grpc.tools\\2.43.0\\grpc.tools.2.43.0.nupkg.sha512",
+    "C:\\Users\\Letso\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Letso\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\Letso\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Letso\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
