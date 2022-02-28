@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gLSnwso/HVfBh3i5Of2ObZkUERdqJOaCyZw6rR0tTKMsUnE9C6MBEA9mSPfyIQwXf6rgNgyvACGnntzz7LlitA==",
+  "dgSpecHash": "XTYptdJF8AKc5trRLp7MPwHcFxcehxWPLEiIGj2deLTtAmuaecZUoQSwrPOItw2ccWI64v/ueHqrMk4mP3eubQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Letso\\source\\repos\\KolcsonzoClient\\Kolcsonzo_Client\\Kolcsonzo_Client.csproj",
+  "projectFilePath": "C:\\Users\\Letso\\Documents\\GitHub\\CarRental\\KolcsonzoClient\\Kolcsonzo_Client\\Kolcsonzo_Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Letso\\.nuget\\packages\\google.protobuf\\3.19.3\\google.protobuf.3.19.3.nupkg.sha512",
     "C:\\Users\\Letso\\.nuget\\packages\\grpc.core.api\\2.42.0\\grpc.core.api.2.42.0.nupkg.sha512",

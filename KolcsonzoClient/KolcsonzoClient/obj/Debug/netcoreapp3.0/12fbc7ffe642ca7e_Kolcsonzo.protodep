@@ -1,2 +1,0 @@
-obj\Debug\netcoreapp3.0\Protos/Kolcsonzo.cs \
-obj\Debug\netcoreapp3.0\Protos/KolcsonzoGrpc.cs: Protos/Kolcsonzo.proto

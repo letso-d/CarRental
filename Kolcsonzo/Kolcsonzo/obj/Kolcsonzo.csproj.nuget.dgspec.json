@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Letso\\source\\repos\\Kolcsonzo\\Kolcsonzo\\Kolcsonzo.csproj": {}
+    "C:\\Users\\Letso\\Documents\\GitHub\\CarRental\\Kolcsonzo\\Kolcsonzo\\Kolcsonzo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Letso\\source\\repos\\Kolcsonzo\\Kolcsonzo\\Kolcsonzo.csproj": {
+    "C:\\Users\\Letso\\Documents\\GitHub\\CarRental\\Kolcsonzo\\Kolcsonzo\\Kolcsonzo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Letso\\source\\repos\\Kolcsonzo\\Kolcsonzo\\Kolcsonzo.csproj",
+        "projectUniqueName": "C:\\Users\\Letso\\Documents\\GitHub\\CarRental\\Kolcsonzo\\Kolcsonzo\\Kolcsonzo.csproj",
         "projectName": "Kolcsonzo",
-        "projectPath": "C:\\Users\\Letso\\source\\repos\\Kolcsonzo\\Kolcsonzo\\Kolcsonzo.csproj",
+        "projectPath": "C:\\Users\\Letso\\Documents\\GitHub\\CarRental\\Kolcsonzo\\Kolcsonzo\\Kolcsonzo.csproj",
         "packagesPath": "C:\\Users\\Letso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Letso\\source\\repos\\Kolcsonzo\\Kolcsonzo\\obj\\",
+        "outputPath": "C:\\Users\\Letso\\Documents\\GitHub\\CarRental\\Kolcsonzo\\Kolcsonzo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Letso\\AppData\\Roaming\\NuGet\\NuGet.Config",

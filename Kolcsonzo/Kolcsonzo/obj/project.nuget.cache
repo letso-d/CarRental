@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hPy7/8NlgqhTaZhc/u+gIerqg9Oz4pWnHlEas0jOpIiueWzOTY6QI3yy5V/Xruo3e1VTGqfy79ZtLnXM64Rrog==",
+  "dgSpecHash": "5g7dgl+SQoDY5mlF7ORPCy2VeaxJxgO/ccVjXqrHZ8cbGzcNMNTE4XKngHPJ5PRSCRHHsJZj3Ljt88j5LI9xOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Letso\\source\\repos\\Kolcsonzo\\Kolcsonzo\\Kolcsonzo.csproj",
+  "projectFilePath": "C:\\Users\\Letso\\Documents\\GitHub\\CarRental\\Kolcsonzo\\Kolcsonzo\\Kolcsonzo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Letso\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Letso\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",

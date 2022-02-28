@@ -1,2 +1,0 @@
-obj\Debug\net5.0-windows\Protos/Kolcsonzo.cs \
-obj\Debug\net5.0-windows\Protos/KolcsonzoGrpc.cs: Protos/Kolcsonzo.proto
